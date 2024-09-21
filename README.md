@@ -16,8 +16,8 @@ This is a React application that fetches and displays repositories from the GitH
 # Installation
 
 # 1) Clone the repository:
-git clone <repository-url>
-cd github-repos
+git clone https://github.com/AnishaSingh5298/React
+cd React
 
 # 2) Install dependencies:
 npm install
